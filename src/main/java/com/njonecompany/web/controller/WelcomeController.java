@@ -25,7 +25,7 @@ public class WelcomeController {
     }
 
     private void getMessage() {
-        return "";
+        return;
     }
 
 }
