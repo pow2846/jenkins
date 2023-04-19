@@ -24,7 +24,7 @@ public class WelcomeController {
 
     }
 
-    private String getMessage() {
+    private void getMessage() {
         return "";
     }
 
